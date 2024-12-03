@@ -1,0 +1,12 @@
+{
+    "DotFileLoc": "dot_files",
+    "DownloadLoc": "~/Configs/",
+    "SymLink": true,
+    "Vim": {
+        "SetupScipt": "VimSetup",
+        "Arguments": {
+            "PluginManager": "Vundle",
+            "VimDotName": "vim/_vimrc"
+        }
+    }
+}
