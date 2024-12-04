@@ -1,0 +1,7 @@
+4th Dec, 2024:
+    - Add additional snippets to specific configurations. These will be local
+      modifications, can be supplied as text/files in the config files. Can be
+      multiple for each software configuration. Each snippets would be separated
+      using comments made from the title of the section in the config.
+      Eg: additional bash commands to be appended to the bashrc. Similar to how
+      Conda adds it's init stuff.
